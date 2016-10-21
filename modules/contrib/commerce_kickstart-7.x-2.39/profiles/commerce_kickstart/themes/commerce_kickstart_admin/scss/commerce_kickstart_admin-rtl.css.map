@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,iFAAkF;EAChF,IAAI,EAAE,CAAC;EACP,KAAK,EAAE,IAAI;;AAEb,8DAA+D;EAC7D,IAAI,EAAE,KAAK;EACX,KAAK,EAAE,IAAI;;AAEb,qFAAsF;EACpF,KAAK,EAAE,IAAI",
+"sources": ["commerce_kickstart_admin-rtl.scss"],
+"names": [],
+"file": "commerce_kickstart_admin-rtl.css"
+}

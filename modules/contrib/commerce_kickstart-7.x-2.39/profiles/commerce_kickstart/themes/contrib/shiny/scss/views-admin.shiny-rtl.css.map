@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";AACA,wBAAyB;EACvB,KAAK,EAAE,IAAI;;AAGb,4CAA6C;EAC3C,WAAW,EAAE,GAAG;EAChB,YAAY,EAAE,CAAC;;AAGjB,kEAAmE;EACjE,WAAW,EAAE,GAAG;EAChB,YAAY,EAAE,CAAC",
+"sources": ["views-admin.shiny-rtl.scss"],
+"names": [],
+"file": "views-admin.shiny-rtl.css"
+}

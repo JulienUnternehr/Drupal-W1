@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";;;AAIA,iBAAkB;EAChB,UAAU,EAAE,+CAA+C;;AAE7D,qCAAsC;EACpC,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,cAAc;;AAExB;;;yCAG0C;EACxC,iBAAiB,EAAE,IAAI;;AAEzB,sCAAuC;EACrC,MAAM,EAAE,WAAW;EACnB,OAAO,EAAE,gBAAgB",
+"sources": ["vertical-tabs-rtl.scss"],
+"names": [],
+"file": "vertical-tabs-rtl.css"
+}

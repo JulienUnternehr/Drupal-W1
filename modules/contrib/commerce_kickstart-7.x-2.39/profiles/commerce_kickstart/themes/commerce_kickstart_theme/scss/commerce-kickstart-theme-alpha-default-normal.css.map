@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";;;;;;;;;;;;;;;AAiBE;;6EAEkC;EAChC,MAAM,EAAE,CAAC;EACT,KAAK,EAAE,KAAK;AAEd,8EAAmC;EACjC,UAAU,EAAE,8EAA8E;EAC1F,IAAI,EAAE,KAAK;;AAEb;0DACe;EACb,UAAU,EAAE,+EAA+E;;AAE7F;0DACe;EACb,UAAU,EAAE,2EAA2E;;EACvF,YAAY,EAAE,GAAG;;;;;;;;;;;;;;AAerB,qCAAsC;EACpC,UAAU,EAAE,6DAA6D;;EACzE,KAAK,EAAE,OAAO;;;;;;;;;;;;;AAed,6EAAgB;EACd,KAAK,EAAE,IAAI;EACX,UAAU,EAAE,KAAK;EACjB,MAAM,EAAE,IAAI;EACZ,QAAQ,EAAE,QAAQ;EAClB,KAAK,EAAE,CAAC;;AAEV,mGAAsC;EACpC,KAAK,EAAE,IAAI;;EACX,iHAAc;IAEZ,cAAc,EAAE,IAAI",
+"sources": ["commerce-kickstart-theme-alpha-default-normal.scss"],
+"names": [],
+"file": "commerce-kickstart-theme-alpha-default-normal.css"
+}

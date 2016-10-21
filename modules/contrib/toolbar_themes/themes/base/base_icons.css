@@ -17,9 +17,7 @@
  * There are no colors in this file - those should be provided by sub-themes.
  */
 #toolbar-administration .toolbar-icon:before, #toolbar-administration .toolbar-icon:after {
-  background-image: none;
-}
-
+  background-image: none; }
 #toolbar-administration i.toolbar-icon {
   display: inline-block;
   width: 1em;
@@ -27,49 +25,35 @@
   padding: 0;
   margin-right: 0.5em;
   position: relative;
-  top: 0.1em;
-}
-
+  top: 0.1em; }
 #toolbar-administration .toolbar-menu ul .toolbar-icon {
-  padding-left: 1.3333em;
-}
-
-[dir="rtl"] #toolbar-administration .toolbar-menu ul .toolbar-icon {
-  padding-left: 0;
-  padding-right: 1.3333em;
-}
-
+  padding-left: 1.3333em; }
+  [dir="rtl"] #toolbar-administration .toolbar-menu ul .toolbar-icon {
+    padding-left: 0;
+    padding-right: 1.3333em; }
 @media only screen and (max-width: 16.5em) {
   #toolbar-administration .toolbar-bar .toolbar-tab > .toolbar-item {
     margin-left: 0;
     margin-right: 0;
     padding-left: 0;
     padding-right: 0;
-    width: 4em;
-  }
-  #toolbar-administration .toolbar-bar .toolbar-tab > .toolbar-item > .toolbar__link-label {
-    text-indent: -9999px;
-  }
-}
-
+    width: 4em; }
+    #toolbar-administration .toolbar-bar .toolbar-tab > .toolbar-item > .toolbar__link-label {
+      text-indent: -9999px; } }
 @media only screen and (min-width: 36em) {
   #toolbar-administration .toolbar-bar .toolbar-tab > .toolbar-icon {
     background-position: left center;
     padding-left: 2.75em;
     padding-right: 1.3333em;
     text-indent: 0;
-    width: auto;
-  }
-  [dir="rtl"] #toolbar-administration .toolbar-bar .toolbar-tab > .toolbar-icon {
-    background-position: right center;
-    padding-left: 1.3333em;
-    padding-right: 2.75em;
-  }
-}
-
+    width: auto; }
+    [dir="rtl"] #toolbar-administration .toolbar-bar .toolbar-tab > .toolbar-icon {
+      background-position: right center;
+      padding-left: 1.3333em;
+      padding-right: 2.75em; } }
 #toolbar-administration .toolbar-tab a .toolbar-box a:focus,
 #toolbar-administration .toolbar-lining button .toolbar-box a:focus,
 #toolbar-administration .toolbar-tray-horizontal a .toolbar-box a:focus {
-  outline: none;
-}
+  outline: none; }
+
 /*# sourceMappingURL=base_icons.css.map */
